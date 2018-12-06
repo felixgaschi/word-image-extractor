@@ -1,2 +1,3 @@
 # word-image-extractor
-Extract word images from an handwritten text with Persistence topology and HMM
+A step toward word image extraction with a line extractor based on persistence homology
+

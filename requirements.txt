@@ -1,0 +1,5 @@
+scikit-image
+PIL
+numpy
+matplotlib
+tqdm
